@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alan-ai/static/css/main.ff73cdbd.css",
+    "main.js": "/alan-ai/static/js/main.2444951a.js",
+    "index.html": "/alan-ai/index.html",
+    "main.ff73cdbd.css.map": "/alan-ai/static/css/main.ff73cdbd.css.map",
+    "main.2444951a.js.map": "/alan-ai/static/js/main.2444951a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff73cdbd.css",
+    "static/js/main.2444951a.js"
+  ]
+}
